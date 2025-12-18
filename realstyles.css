@@ -1,5 +1,8 @@
 body{
 background-color:#E66386
+background-color: rgb(240, 128, 128);
+font-family: 'Arial', sans-serif;
+color: #333333;
 }
 .header-box{
     text-align: center;
