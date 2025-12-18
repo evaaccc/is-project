@@ -1,7 +1,13 @@
 body{
 background-color:#E66386
 }
-
+.header-box{
+    text-align: center;
+    background-color: rgb(255,255,255);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
 
 
 
